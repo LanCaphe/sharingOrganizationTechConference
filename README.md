@@ -26,7 +26,7 @@ Pour sous-titrer plusieurs salles en même temps, il existent des sociétés aui
 - [le messageur](https://www.lemessageur.com)
 - [voxadirect](https://www.voxadirect.com/le-sous-titrage-en-presentiel)
 - [acceo/tadeo](https://www.acceo-tadeo.fr/pages/prestations-a-la-carte/acceo-events.html)
-- [ava](https://fr.ava.me)
+
 
 Dans la plupart des cas, il faut demander une liste de verbatims et leur prononciation aux orateurices.
 
