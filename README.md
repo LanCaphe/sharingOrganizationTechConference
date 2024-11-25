@@ -23,8 +23,8 @@ Bonne organisation, et faites briller vos événements ! ✨
 
 ## Accessibilité
 
-Des informations et retours d'expérience sur l'accessibilité dans vos conférences dans la [section dédiée](https://github.com/LanCaphe/sharingOrganizationTechConference/blob/a11y.md).
+Des informations et retours d'expérience sur l'accessibilité dans vos conférences dans la [section dédiée](https://github.com/LanCaphe/sharingOrganizationTechConference/blob/main/a11y.md).
 
 ## Diversité et inclusion
 
-Des informations et retours d'expérience sur les outils et astuces pour améliorer la diversité et l'inclusion dans vos conférences dans la [section dédiée](https://github.com/LanCaphe/sharingOrganizationTechConference/blob/diversité.md).
+Des informations et retours d'expérience sur les outils et astuces pour améliorer la diversité et l'inclusion dans vos conférences dans la [section dédiée](https://github.com/LanCaphe/sharingOrganizationTechConference/blob/main/diversité.md).
