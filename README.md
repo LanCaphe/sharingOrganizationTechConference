@@ -1,52 +1,30 @@
 # Partage d'astuces pour organisation de conférences tech
 
+Bienvenue dans ce dépôt collaboratif ! 🎉
+
+Ce projet rassemble les trucs et astuces, bonnes pratiques et retours d'expérience des organisatrices et organisateurs de conférences. Après plusieurs années d'existence et d'événements enrichissants, nous avons souhaité centraliser ce savoir accumulé pour :
+
+- Faciliter la tâche aux nouvelles équipes d'organisation
+- Partager les leçons apprises (parfois à la dure !)
+- Inspirer et améliorer continuellement les expériences pour les participants, les speakers et les sponsors
+
+Que vous soyez une équipe débutante ou chevronnée, ce répo est là pour vous guider à travers des ressources, des checklists, et des conseils pratiques issus d'années d'apprentissage collectif.
+
+**🛠 Contribuez !**
+
+Nous encourageons les contributions pour enrichir ce guide vivant. Si vous avez des astuces, des suggestions ou des retours à partager, n'hésitez pas à ouvrir une pull request ou à soumettre une issue.
+
+Bonne organisation, et faites briller vos événements ! ✨
+
 ## Calendrier
 
-Cloud Nord, vendredi vers le 10 octobre à Lille(Nord).
+- [Cloud Nord](https://www.cloudnord.fr/), vendredi vers le 10 octobre à Lille (Nord).
+- [BDX I/O](https://bdxio.fr/), vendredi dans la première quinzaine de Novembre à Bordeaux.
 
 ## Accessibilité
 
-### Sous-titrage 
+Des informations et retours d'expérience sur l'accessibilité dans vos conférences dans la [section dédiée](https://github.com/LanCaphe/sharingOrganizationTechConference/blob/main/a11y.md).
 
-Le sous-titrage est utile pour les personnes sourdes ou malentendantes mais aussi aux personnes dont la langue de la pré-
-sentation n'est pas la langue première, les personnes neuroatypiques ( TDAH par exemple), mais également tous les participants qui ressent une fatigue. 
+## Diversité et inclusion
 
-Pour tous les sujets techniques, je déconseille l'usage de solution de sous-titrage automatique par intelligence articielle.
-Le vocabulaire technique et l'usage de nombreux anglicisme ne permet pas d'obtenir des résultats correct. 
-
-Pour mettre en place un sous-titrage partiel( une seule salle), 
-recommande chaudement [Céline Ripolles](https://celineripolles.com). 
-Elle propose un tarif horaire très accessible (en particulier pour les associations). Il faut prévoir en plus les frais de déplacements 
-car elle se déplacement en personne avec son ordinateur qui est à racorder en HDMI). Il faut prévoir également un écran 
-supplémentaire pour la diffusion des sous-titres/ ou l'incrustation dans l'écran de présentation. 
-
-Il existe surement d'autres vélotypiste indépendant-es.
-
-Pour sous-titrer plusieurs salles en même temps, il existent des sociétés aui sous titre en temps réel à distance:
-- [le messageur](https://www.lemessageur.com)
-- [voxadirect](https://www.voxadirect.com/le-sous-titrage-en-presentiel)
-- [acceo/tadeo](https://www.acceo-tadeo.fr/pages/prestations-a-la-carte/acceo-events.html)
-
-
-Dans la plupart des cas, il faut demander une liste de verbatims et leur prononciation aux orateurices.
-
-### La transcription 
-
-L'une des autres solutions est de demander une transcription écrite de ce aui va être dit page par pages dans les grandes 
-lignes. Pas besoin que l'orateurices lise son texte au point et à la virgule près mais l'essentiel de son message soit 
-disponible par écrit.
-
-## Diversifier les orateurices
-
-- Les tremplins co organisés avec [CraftsRecords](https://craftsrecords.org) sont un excellent moyen de diversifié vos talks 
-en donnant la chance à des néo orateurices de bénéficier d'un accompagnement d'une personne plus expérimenter dans toutes 
-les étapes clefs (répondre au CFP, structurer son message, créer sa présentation) et de bénéficier de répétitions avec un public
-9 composé des autres candidats et coachs) puis d'une soirée ouverte au public(enregistrée ce aui permet aux participants 
-de plus facilement postuler à d'autres événements.
-
-- Communiquer avec les communautés tech de votre ville. De nombreuses communautés locales organisent des événements de type
-meetups.
-
-
-
-
+Des informations et retours d'expérience sur les outils et astuces pour améliorer la diversité et l'inclusion dans vos conférences dans la [section dédiée](https://github.com/LanCaphe/sharingOrganizationTechConference/blob/main/diversité.md).
