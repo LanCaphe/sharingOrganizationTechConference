@@ -25,6 +25,10 @@ Bonne organisation, et faites briller vos événements ! ✨
 
 Des informations et retours d'expérience sur l'accessibilité dans vos conférences dans la [section dédiée](https://github.com/LanCaphe/sharingOrganizationTechConference/blob/main/a11y.md).
 
+## Billetterie
+
+Des informations et retours d'expérience sur la billetterie ainsi que tout ce qui gravite autour (scan de contrôle d'accès, changements de billets, imports en masse, scan sponsors...) [section dédiée](https://github.com/LanCaphe/sharingOrganizationTechConference/blob/main/billetterie.md).
+
 ## Diversité et inclusion
 
 Des informations et retours d'expérience sur les outils et astuces pour améliorer la diversité et l'inclusion dans vos conférences dans la [section dédiée](https://github.com/LanCaphe/sharingOrganizationTechConference/blob/main/diversité.md).
