@@ -17,7 +17,7 @@
 
 ## [Imagina](https://imagina.com/fr/)
 
-[BDX I/O] En 2024, l'équipe de BDX I/O a choisi de tester une solution d'intégration complète (billetterie, programme, plan, etc.) avec l'application Imagina. Il s'agit d'une application payante et apportant de nombreuses options de personnalisation. Lors de la phase de mise en place de l'application, une personne côté est assignée au projet en qualité de chef•fe de projet. C'est cette personne qui met en place les différentes stratégies pour la billeterie, en accord avec l'équipe d'organisation de la conférence.
+[BDX I/O] En 2024, l'équipe de BDX I/O a choisi de tester une solution d'intégration complète (billetterie, programme, plan, etc.) avec l'application Imagina. Il s'agit d'une application payante et apportant de nombreuses options de personnalisation. Lors de la phase de mise en place de l'application, une personne côté Imagina est assignée au projet en qualité de chef•fe de projet. C'est cette personne qui met en place les différentes stratégies pour la billeterie, en accord avec l'équipe d'organisation de la conférence.
 
 Nous avons donc pu mettre en place différentes catégories de billets (early-birds, participants, speakers et sponsors) avec des jauges et des tarifs différents. Certains catégories de billetterie étaient configurées avec un accès restreint (par exemple les sponsors, accès possible avec un code), tandis de d'autres n'étaient pas accessibles du tout (par exemple les speakers).
 
