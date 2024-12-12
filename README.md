@@ -27,7 +27,7 @@ Des informations et retours d'expérience sur l'accessibilité dans vos confére
 
 ## Billetterie
 
-Des informations et retours d'expérience sur la billetterie ainsi que tout ce qui gravite autour (scan de contrôle d'accès, changements de billets, imports en masse, scan sponsors...) [section dédiée](https://github.com/LanCaphe/sharingOrganizationTechConference/blob/main/billetterie.md).
+Des informations et retours d'expérience sur la billetterie ainsi que tout ce qui gravite autour (scan de contrôle d'accès, changements de billets, imports en masse, scan sponsors...) dans la [section dédiée](https://github.com/LanCaphe/sharingOrganizationTechConference/blob/main/billetterie.md).
 
 ## Diversité et inclusion
 
