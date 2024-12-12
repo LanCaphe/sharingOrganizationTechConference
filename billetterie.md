@@ -52,3 +52,11 @@ Les sponsors ont remonté que le QR Code sur le téléphone n'était pas suffisa
 - Commission plus élevée que sur BilletWeb
 - Scan des billets sponsors / participants pour génération de lead peu pratique
 - Changement du nom du billet via le back-office - même si c'est simple cela prend beaucoup de temps aux bénévoles surtout à l'approche de l'événement.
+
+## Billets diversité
+
+Paris Web, par exemple, a mis en place les [tickets diversité](https://www.paris-web.fr/actualites/2024/07/tickets-diversite-pour-paris-web-2024) pour mettre aux personnes appartenant aux minorités sous-représentées d'accéder gratuitement à l'événement.
+
+Pour que ces tickets existent, les entreprises et les personnes individuelles peuvent aider à les financer.
+
+Si les tickets diversité sont disponibles, les personnes issues des minorités peuvent en faire la demande.
